@@ -42,8 +42,6 @@ def PalavraTracos():
 def InputUsuario(listaL):
     while True:
         letra = input("Digite uma letra: ").lower()
-        if letra == 'exit(Edilan*)':
-            exit()
         try:
             float(letra)
         except ValueError:
