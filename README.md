@@ -4,3 +4,4 @@
 Esse é oficialmente meu primeiro projeto 😁
 Espero que gostem!
 
+Para poder acessar o joguinho basta rodar o arquivo "main.py" via terminal.
