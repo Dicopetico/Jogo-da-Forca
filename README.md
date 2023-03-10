@@ -1,2 +1,6 @@
 # Jogo-da-Forca
-Projeto 1 do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science da Data Science Academy
+1° Projeto do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science da Data Science Academy
+####Olá pessoas
+Esse é oficialmente meu primeiro projeto 😁
+Espero que gostem!
+
